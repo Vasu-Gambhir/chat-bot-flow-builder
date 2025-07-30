@@ -2,7 +2,7 @@ Chatbot Flow Builder
 A React-based visual flow builder for creating chatbot conversation flows using drag-and-drop functionality.
 
 🚀 Live Demo
-Live Demo Link - Replace with actual deployment URL
+Live Demo Link - [chat-bot-flow-builder](https://chat-bot-flow-builder-zeta.vercel.app/)
 
 📋 Features
 
@@ -51,7 +51,7 @@ src/
 🏗️ Installation & Setup
 
 Clone the repository
-bash - git clone [https://github.com/yourusername/chatbot-flow-builder.git](https://github.com/Vasu-Gambhir/chat-bot-flow-builder.git)
+bash - git clone https://github.com/Vasu-Gambhir/chat-bot-flow-builder.git
 cd chatbot-flow-builder
 
 Install dependencies
